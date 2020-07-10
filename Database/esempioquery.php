@@ -1,5 +1,5 @@
 <?php
-include_once "dbhconnect.php";
+include_once "collegamentoUtenti.php";
 
 $result = mysqli_query($conn,"SELECT * FROM tabella");
 $row = mysqli_num_rows($result);
