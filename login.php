@@ -15,7 +15,7 @@
 				Login
 			</div>
 			<div class="boxInterno">
-				<form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
+				<form action="insertpost.php" method="post">
 					Inserire Email	<br>
 					<input type="text" name="email" placeholder="Email" />	<br>
 					Inserire password	<br>

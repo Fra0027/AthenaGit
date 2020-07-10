@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $.ajax({
-      url: 'Mockups/mockdata.json',
+      url: 'mockups/mockdata.json',
       dataType: 'json',
       success: function(data){
           console.log(data);
