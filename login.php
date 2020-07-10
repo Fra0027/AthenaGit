@@ -27,7 +27,7 @@
 		<?php
 			if (isset($_POST["b"]))
 			{
-				include_once "database/collegamentoUtenti.php";
+				include_once "database/verify.php";
 			}
 		?>
 
