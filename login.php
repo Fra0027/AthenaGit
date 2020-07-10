@@ -24,6 +24,12 @@
 				</form>
 			</div>
 		</div>
+		<?php
+			if (isset($_POST["b"]))
+			{
+				
+			}
+		?>
 
 	</body>
 
