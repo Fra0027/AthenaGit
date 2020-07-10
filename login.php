@@ -2,9 +2,7 @@
 
 	<head>
 
-		<title>
-			Login
-		</title>
+		<title>Login</title>
 		<link rel="stylesheet" href="CSS/CSSReset.css">
 		<link rel="stylesheet" href="CSS/login.css">
 
