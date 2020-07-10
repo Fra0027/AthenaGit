@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="JS/GivePost.js"></script>
 
   </head>
   <body>
@@ -21,6 +22,13 @@
     </header>
 
     <main>
+
+      <div class="post">
+        <img src="" alt="PhotoPost" class="imgpost">
+        <h1 class="titlepost">Title Heading</h1>
+        <h2 class="titledescription">Title description, data</h2>
+        <h3 class="textpost">Text</h3>
+      </div>
 
     </main>
 
