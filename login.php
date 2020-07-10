@@ -3,8 +3,8 @@
 	<head>
 
 		<title>Login</title>
-		<link rel="stylesheet" href="CSS/CSSReset.css">
-		<link rel="stylesheet" href="CSS/login.css">
+		<link rel="stylesheet" href="css/CSSReset.css">
+		<link rel="stylesheet" href="css/login.css">
 
 	</head>
 
@@ -27,7 +27,7 @@
 		<?php
 			if (isset($_POST["b"]))
 			{
-				include_once "Database/collegamentoUtenti.php";
+				include_once "database/collegamentoUtenti.php";
 			}
 		?>
 

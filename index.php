@@ -12,12 +12,12 @@
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script src="JS/GivePost.js"></script>
+    <script src="js/GivePost.js"></script>
 
   </head>
   <body>
     <header>
-      <img src="image/logo.jpg" alt="Imglogo" class="imglogo">
+      <img src="images/logo.jpg" alt="Imglogo" class="imglogo">
       <a href="login.php" id="LoginRedirect">Login</a>
     </header>
 
