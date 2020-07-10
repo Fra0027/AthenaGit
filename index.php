@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 
-    <title>NewsLetter</title>
+    <title>Athen</title>
 
     <link rel="stylesheet" href="css/CSSReset.css">
     <link rel="stylesheet" href="css/style.css">
@@ -22,7 +22,7 @@
     </header>
 
     <main>
-      
+
       <div class="post">
         <img src="" alt="PhotoPost" class="imgpost">
         <h1 class="titlepost">Title Heading</h1>
