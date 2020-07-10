@@ -22,7 +22,7 @@
     </header>
 
     <main>
-
+      
       <div class="post">
         <img src="" alt="PhotoPost" class="imgpost">
         <h1 class="titlepost">Title Heading</h1>
