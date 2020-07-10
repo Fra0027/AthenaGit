@@ -28,11 +28,6 @@
 			if (isset($_POST["b"]))
 			{
 				include_once "Database/collegamentoUtenti.php";
-				if(!$conn)
-				{
-					echo "Impossibile connettersi al server".$conn->connect_error;
-					exit;
-				}
 			}
 		?>
 

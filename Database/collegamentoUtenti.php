@@ -2,7 +2,7 @@
 $dbServername="localhost";
 $dbUsername="root";
 $dbPassword="";
-$dbName="";
+$dbName="utenti_athena";
 $conn = mysqli_connect($dbServername,$dbUsername,$dbPassword,$dbName);
 if (mysqli_connect_errno())
 {
