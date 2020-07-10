@@ -22,9 +22,6 @@
 					<input type="text" name="pass" placeholder="Password" />	<br>
 					<input type="submit" name="b" value="Login" />	<br>
 				</form>
-				<div class="reg">
-					Se non sei un utente registrato , <a href="Registrazione.php"> registrati </a>
-				</div>
 			</div>
 		</div>
 
