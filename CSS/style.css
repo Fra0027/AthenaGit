@@ -59,7 +59,9 @@ main{
 }
 
 .imgpost{
-  width: 100%;
+  width: 770px;
+  height: 220px;
+  object-fit: fill;
 }
 
 .titlepost{

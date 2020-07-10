@@ -23,13 +23,6 @@
 
     <main>
 
-      <div class="post">
-        <img src="" alt="PhotoPost" class="imgpost">
-        <h1 class="titlepost">Title Heading</h1>
-        <h2 class="titledescription">Title description, data</h2>
-        <h3 class="textpost">Text</h3>
-      </div>
-
     </main>
 
     <footer>
