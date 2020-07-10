@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 
-    <title>News Letter</title>
+    <title>Athena</title>
 
     <link rel="stylesheet" href="css/CSSReset.css">
     <link rel="stylesheet" href="css/style.css">
