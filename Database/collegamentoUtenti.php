@@ -1,7 +1,10 @@
 <?php
-  $conn = new mysqli("104.27.130.118","prova0027","","my_prova0027");
-  if(!$conn){
-    echo "Impossibile connettersi al server".$conn->connect_error;
-    exit;
-  }
-?>
+$dbServername="localhost";
+$dbUsername="root";
+$dbPassword="";
+$dbName="";
+$conn = mysqli_connect($dbServername,$dbUsername,$dbPassword,$dbName);
+if (mysqli_connect_errno())
+{
+echo "Failed to connect to MySQL: " . mysqli_connect_error();
+}
