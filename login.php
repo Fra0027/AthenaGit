@@ -12,7 +12,7 @@
 			<div class="boxInterno">
 				<form method="post" action="database/verify.php">
 				  <p>Username</p><input type="text" name="username" placeholder="Email" />
-				  <p>Password</p><input type="text" name="password" placeholder="Password" />
+				  <p>Password</p><input type="password" name="password" placeholder="Password" />
 				  <p><input type="submit" value="Accedi" /></p>
 				</form>
 			</div>
