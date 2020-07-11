@@ -42,11 +42,13 @@ input[type=text]:hover
 {
 	width:80%;
 	transition:0.5s;
+	border-color:#00ffff;
 }
 input[type=password]:hover
 {
 	width:80%;
 	transition:0.5s;
+	border-color:#00ffff;
 }
 input[type=text]:focus
 {
@@ -63,16 +65,18 @@ input[type=password]:focus
 }
 input[type=submit]
 {
-	border-radius:7px;
+	border-radius:5px;
+	width: 70px;
+	height: 40px;
 	outline:none;
 	border-style:groove;
 	border-color:#00ffff;
 	background-color:white;
-	padding:8px 10px;
 }
 input[type=submit]:hover
 {
 	background-color:#00ffff;
 	cursor:pointer;
-	transition:0.7s;
+	transition:0.5s;
+	color: white;
 }

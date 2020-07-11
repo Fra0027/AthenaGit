@@ -4,7 +4,7 @@
 		<link rel="stylesheet" href="css/CSSReset.css">
 		<link rel="stylesheet" href="css/stylelogin.css">
 	</head>
-	<body>
+	<body style="background-image: url('images/pattern.png')">
 		<div class="box">
 			<div class="boxTitolo">
 				Login
