@@ -2,7 +2,7 @@
 $dbServername="localhost";
 $dbUsername="root";
 $dbPassword="";
-$dbName="utenti";
+$dbName="my_prova0027";
 $conn = mysqli_connect($dbServername,$dbUsername,$dbPassword,$dbName);
 if (mysqli_connect_errno())
 {
