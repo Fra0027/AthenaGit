@@ -10,12 +10,14 @@
     exit();
   }
   else{
+
     $sql = "SELECT * FROM users WHERE username = '$username' AND password = '$password'";
     $result = $conn->query($sql);
 
     if(mysqli_num_rows($result)==0){
       $_SESSION["logged"] = false;
       echo "non sei registrato";
+      session_stop();
       $conn->close();
     }
     else{
