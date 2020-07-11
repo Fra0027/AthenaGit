@@ -12,6 +12,6 @@
   }
   else{
     $_SESSION["logged"] = true;
-    header("location:../insertpost.php");
+    header("location:../pageuser.php");
   }
 ?>
