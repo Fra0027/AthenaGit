@@ -19,13 +19,13 @@
 					Inserire Email	<br>
 					<input type="text" name="email" placeholder="Email" />	<br>
 					Inserire password	<br>
-					<input type="text" name="pass" placeholder="Password" />	<br>
-					<input type="submit" name="b" value="Login" />	<br>
+					<input type="text" name="password" placeholder="Password" />	<br>
+					<input type="submit" name="login" value="Login" />	<br>
 				</form>
 			</div>
 		</div>
 		<?php
-			if (isset($_POST["b"]))
+			if (isset($_POST["login"]))
 			{
 				include_once "database/verify.php";
 			}
