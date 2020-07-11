@@ -86,12 +86,13 @@ main{
 .dropdown {
   float: right;
   overflow: hidden;
+  transition-duration: 0.50s;
 }
 
 .dropbtn{
   margin-right: 50px;
   background: none;
-  border: solid 0.1px #525252;
+  border: solid 0.1px #00ffff;
   cursor: pointer;
   border-radius: 5px;
   text-decoration: none;
@@ -109,9 +110,14 @@ main{
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background: #525252;
+  background: #00ffff;
   color: white;
   transition-duration: 0.50s;
+}
+
+.dropbtn:hover,:focus{
+  font-size: 16px;
+  color: #00ffff;
 }
 
 .dropdown-content {
@@ -137,7 +143,7 @@ main{
 }
 
 .dropdown-content a:hover {
-  background: #525252;
+  background: #00ffff;
   color: white;
   transition-duration: 0.50s;
 }
