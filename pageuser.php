@@ -18,7 +18,16 @@
   <body>
     <header>
       <img src="images/logo.jpg" alt="Imglogo" class="imglogo">
-      <a href="login.php" id="userlogin"><?php $username ?></a>
+      <div class="dropdown">
+        <button class="dropbtn">User</button>
+        <div class="dropdown-content">
+          <a href="#">Aggiungi Post</a>
+          <a href="#">Modifica Post</a>
+          <hr>
+          <a href="#">Log Out</a>
+        </div>
+      </div>
+
     </header>
 
     <main>
