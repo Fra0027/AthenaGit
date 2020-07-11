@@ -10,11 +10,10 @@
 				Login
 			</div>
 			<div class="boxInterno">
-				<h2>Login</h2>
 				<form method="post" action="database/verify.php">
-				  <p>Username</p><input type="text" name="username" >
-				  <p>Password</p><input type="text" name="password">
-				  <p><button>Accedi</button></p>
+				  <p>Username</p><input type="text" name="username" placeholder="Email" />
+				  <p>Password</p><input type="text" name="password" placeholder="Password" />
+				  <p><input type="submit" value="Accedi" /></p>
 				</form>
 			</div>
 		</div>
