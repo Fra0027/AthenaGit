@@ -18,7 +18,7 @@
   <body>
     <header>
       <img src="images/logo.jpg" alt="Imglogo" class="imglogo">
-      <a href="modulologin.php" id="LoginRedirect">Login</a>
+      <a href="login.php" id="LoginRedirect">Login</a>
     </header>
 
     <main>
