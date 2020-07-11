@@ -27,7 +27,7 @@
 		<?php
 			if (isset($_POST["login"]))
 			{
-				include_once "database/verify.php";
+				include "database/verify.php";
 			}
 		?>
 
