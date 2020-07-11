@@ -10,10 +10,6 @@
 				Login
 			</div>
 			<div class="boxInterno">
-				<?php
-				  session_start(); // come sempre prima cosa, aprire la sessione
-				  include("database/db_conn.php"); // includere la connessione al database
-				?>
 				<h2>Login</h2>
 				<form method="post" action="database/verify.php">
 				  <p>Username</p><input type="text" name="username" >
