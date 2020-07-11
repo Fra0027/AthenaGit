@@ -151,3 +151,16 @@ main{
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+/* aggiungi */
+.box {
+  color:white;
+  width:80%;
+  height:75%;
+  background-color:black;
+  border:solid 2px;
+  /* top: 60%; Non capisco perché non mette più giu il box*/
+  /* left: 50%; Non va nemmeno il left con tutte quelle cazzate della trasformazione .
+  Quell'header fa casino */
+  text-align:center;
+}
