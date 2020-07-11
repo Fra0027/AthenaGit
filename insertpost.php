@@ -1,3 +1,3 @@
 <?php
-  echo "ciao";
- ?>
+    include ("database/verify.php");
+?>

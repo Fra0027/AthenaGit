@@ -24,12 +24,7 @@
 				</form>
 			</div>
 		</div>
-		<?php
-			if (isset($_POST["login"]))
-			{
-				include "database/verify.php";
-			}
-		?>
+
 
 	</body>
 
