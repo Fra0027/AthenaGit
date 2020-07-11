@@ -74,3 +74,20 @@ main{
 .textpost{
   font-weight: 400;
 }
+
+#userlogin{
+  float: right;
+  margin-right: 50px;
+  background: none;
+  border: solid 0.1px #525252;
+  cursor: pointer;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  margin-top: 50px;
+  transform: translateY(-50%);
+  line-height: 50px;
+}
