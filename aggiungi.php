@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
-            <!-- Qui secondo me dobbiamo fare un controllo , non lo so fare ma titlepost
+            <!-- Qui secondo me dobbiamo fare un controllo , non lo so fare ma tipo
            <?php
             /*   if($_SESSION["logged"] = true;)
               {
