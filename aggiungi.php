@@ -37,24 +37,23 @@
           <a href="#">Log Out</a>
         </div>
       </div>
-
     </header>
-    <div class="box">
-      <br><br><br><br><br><br><br><br><br> Ndo cazzo sta sto box
-      <form action="" method="post">
-        Inserire url immagine <br>
-        <input type="text" name="foto" placeholder="Url foto" /> <br>
-        Inserire un titolo <br>
-        <input type="text" name="titolo" placeholder="Titolo" /> <br>
-        Inserire un sottotitolo <br>
-        <input type="text" name="stitolo" placeholder="Sotto titolo" /> <br>
-        Inserire il post <br>
-        <textarea name="post" placeholder="Post" /></textarea> <br>
-        <input type="submit" value="Pubblica" /> <br>
-      </form>
-    </div>
-    <main>
 
+    <main>
+      <div class="box">
+        <br><br><br><br><br><br><br><br><br> Ndo cazzo sta sto box
+        <form action="" method="post">
+          Inserire url immagine <br>
+          <input type="text" name="foto" placeholder="Url foto" /> <br>
+          Inserire un titolo <br>
+          <input type="text" name="titolo" placeholder="Titolo" /> <br>
+          Inserire un sottotitolo <br>
+          <input type="text" name="stitolo" placeholder="Sotto titolo" /> <br>
+          Inserire il post <br>
+          <textarea name="post" placeholder="Post" /></textarea> <br>
+          <input type="submit" value="Pubblica" /> <br>
+        </form>
+      </div>
     </main>
 
     <footer>
